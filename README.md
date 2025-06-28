@@ -7,16 +7,6 @@
 
 The Stock Picker project is a practical Ruby exercise from The Odin Project's Ruby curriculum. It is designed to help you implement an algorithm that finds the best days to buy and sell stocks to maximize profit. This task involves iterating through an array of stock prices and identifying the most optimal days for buying and selling.
 
-<details open>
-<summary>
- Screenshots
-</summary> <br />
-    
-<p align="center">
-    <img src="screenshots/screenshot.png"/>
-
-</details>
-
 ## 📝 Project Objective
 
 The goal of this project is to build a method called #stock_picker that takes in an array of stock prices, where each index represents a day, and outputs the pair of days that will result in the highest profit. This project reinforces your understanding of arrays, iteration, and implementing condition-based algorithms.
